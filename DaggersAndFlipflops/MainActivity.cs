@@ -12,6 +12,7 @@ namespace DaggersAndFlipflops
             base.OnCreate(savedInstanceState);
 
             // Set our view from the "main" layout resource
+            // kui loed oled gay
             SetContentView(Resource.Layout.Main);
         }
     }
